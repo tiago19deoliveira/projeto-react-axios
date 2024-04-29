@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: "Blinker";
+}
+
+ul{
+    list-style: none;
+
+a  {
+     text-decoration: none;
+     color: #fff;
+     opacity: 0.7;
+     transition: 0.3s;
+   }
+
+   a:hover{
+    opacity :3s;
+   }
+    
+ p{
+    color:#a9abb3;
+ } 
+
+}
