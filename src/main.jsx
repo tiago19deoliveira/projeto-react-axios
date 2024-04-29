@@ -25,6 +25,7 @@ const router = createBrowserRouter([
   
 
 ReactDOM.createRoot(document.getElementById('root')).render(
+  // eslint-disable-next-line react/jsx-no-undef
   <React.StrictMode>
     <RouterProvider router={router}/>
   </React.StrictMode>,
